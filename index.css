@@ -1,0 +1,136 @@
+.head1{
+    background-color: green;
+    height:70px;
+    display:flex;
+    text-decoration: none;
+    padding-left: 10px;
+    justify-content:end;
+    background-color: black;
+    border-radius: 15px;
+    
+
+
+}
+.head2{
+    background-color:white;
+    height: 120px;
+     display: flex;
+     flex-direction: row;
+
+border-radius: 4px;
+border-style: solid;
+border-radius: 20px;
+border-color:aliceblue;
+padding-left: 10px;
+
+
+
+
+}
+.nav1{
+    font-size:xx-large;
+    text-decoration:none;
+    margin:5px;
+    color:white;
+
+}
+.nav1:hover{
+    color:brown;}
+
+.Contact{
+    height:30px;
+    border-color: rgb(42, 91, 165);
+    border-width:1.5px;
+    border-style:solid;
+    border-radius: 10px;
+    font-size:25px;
+    margin-right:3px;
+    width:150px;
+margin-top: 3px;
+color:blue;
+}
+.sign{
+    height:30px;
+  
+    border-width:0.5px;
+    border-style:solid;
+    border-radius: 10px;
+    font-size:25px;
+    background-color: rgb(65, 124, 225);
+    width:150px;
+    margin-top: 3px;
+    margin-right:3px;
+    color:aliceblue;
+    
+}
+.right{
+    display:flex;
+    width:400px;
+    flex-direction: row;
+    justify-content:flex-end;
+padding-left:850px;
+
+}
+.nav2{
+    text-decoration: none;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-top: 25px;
+    color:black;
+}
+main{
+position:relative;
+top: 240px;
+left: 650px;
+
+    border-color: black;
+    border-style:green;
+    border-width:3px;
+    height:500px;
+    width:600px;
+ 
+
+}
+.place{
+    width: 500px;
+    height:100px;
+    border-radius: 10px;
+    font-size: 30px;
+ 
+}
+.join{
+    width:250px;
+    height:50px;
+    border-radius:10px;
+    background-color:lightblue;
+    font-size:30px ;
+}
+.container{
+    width:3100PX;
+    height:2500px;
+    display:flex;
+    background-color: rgb(89, 84, 93);
+}
+.hello{
+
+    height:1000px;
+    width:700px;
+    font-size: 100px;
+
+}
+
+    
+}
+#language{
+    height:30px;
+}
+.download{
+    width:40px;
+}
+.sales{
+width:40px;
+}
+.last{
+    display:flex;
+flex-direction: row;
+}
